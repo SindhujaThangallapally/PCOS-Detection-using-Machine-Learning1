@@ -19,8 +19,8 @@ Exploratory Data Analysis (EDA) for understanding trends and patterns in the dat
 Visualization of results and feature importance.
 
 **Contributors**
+Sindhuja Thangallapally,
 Yashaswi Mamidala,
 Shivani Alugoju,
-Sindhuja Thangallapally,
 Shivajyothi Thatikonda,
 Annapurna Gannarapu
